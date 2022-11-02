@@ -7,6 +7,7 @@
 **Tenemos 6 clases al dia**
 ### Profesores
 **Tenemos _la mitad_ de profesores**
+#
 los profesores que tenemos son:
   - Israel 
   - Carlos
