@@ -17,4 +17,5 @@ y los conocimos en este orden:
 [x] programacion
 - [ ] https://www.youtube.com/
 - [ ] Tienes todas las tareas terminadas :tada:
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Akarui2143/WaterPy/master/assets/ImagenV1.png)
+##
+![Aquí la descripción de la imagen por si no carga](https://github.com/Akarui2143/Akarui2143/blob/main/todos-los-star-guardian-2022_3840x2160_xtrafondos.com.jpg)
