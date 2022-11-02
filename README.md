@@ -17,3 +17,4 @@ y los conocimos en este orden:
 [x] programacion
 - [ ] https://www.youtube.com/
 - [ ] Tienes todas las tareas terminadas :tada:
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Akarui2143/WaterPy/master/assets/ImagenV1.png)
